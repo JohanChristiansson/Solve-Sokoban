@@ -1,6 +1,6 @@
 # Solve Sokoban with AlphaZero
 
-This project aims to solve the Sokoban game using the AlphaZero-inspired model. The project is part of the course TDDE19 at Linköping University.
+This project aims to solve the Sokoban game using the AlphaZero-inspired model. The project is part of the course TDDE19 at Linköping University completed during Autumn 2024.
 
 ## Installation instruction
 
