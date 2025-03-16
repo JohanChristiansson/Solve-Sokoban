@@ -1,0 +1,10 @@
+[
+  {
+    "id": "Sokoban-v0",
+    "entry_point": "gym_sokoban.envs:SokobanEnv1"
+  },
+  {
+    "id": "Sokoban-v1",
+    "entry_point": "gym_sokoban.envs:SokobanEnv"
+  }
+]

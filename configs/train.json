@@ -1,0 +1,22 @@
+{
+    "file": ["sokoban_boards/sokoban_medium.txt"],
+    "folder": null,
+    "render_mode": "human",
+    "heuristic": [
+      ["manhattan_box_goal", 1.0]
+    ],
+    "max_rollouts": 100,
+    "max_depth": 30,
+    "max_steps": 120,
+    "time_limit": 60,
+    "log_dir": "./solve_log",
+    "exploration": 2.0,
+    "step_penalty": 0.1,
+    "depth_penalty": 1.0,
+    "train_time": 1,
+    "eval_mode": false,
+    "lr": 0.01,
+    "betas": [0.9, 0.999],
+    "weight_decay": 0.01,
+    "embedding_dim": 4
+}
